@@ -1,0 +1,19 @@
+Product Name,Current Factory,Recommended Factory,Lead Time Reduction (%),Lead Time Reduction (Days),Avg Profit Margin (%),Regions Benefiting,Confidence Score,Risk
+Laffy Taffy,Sugar Shack,Secret Factory,17.65,289.08,62.31,1,0.834,Safe
+Fizzy Lifting Drinks,Sugar Shack,The Other Factory,16.29,266.96,60.0,2,0.886,Safe
+Everlasting Gobstopper,Secret Factory,Lot's O' Nuts,15.58,255.66,80.0,1,0.841,Safe
+Kazookles,The Other Factory,Lot's O' Nuts,13.72,195.9,7.69,1,0.518,Review
+SweeTARTS,Sugar Shack,Lot's O' Nuts,12.95,212.39,46.67,1,0.642,Review
+Hair Toffee,The Other Factory,Lot's O' Nuts,12.56,205.94,77.78,1,0.747,Safe
+Wonka Gum,Secret Factory,The Other Factory,12.09,197.68,52.0,1,0.637,Review
+Hair Toffee,The Other Factory,Wicked Choccy's,11.65,190.53,77.78,1,0.722,Safe
+SweeTARTS,Sugar Shack,The Other Factory,10.87,178.04,46.67,1,0.583,Review
+Laffy Taffy,Sugar Shack,Lot's O' Nuts,10.05,159.22,62.31,1,0.618,Safe
+Lickable Wallpaper,Secret Factory,Lot's O' Nuts,8.4,135.4,50.0,2,0.625,Review
+Lickable Wallpaper,Secret Factory,The Other Factory,7.18,108.81,50.0,1,0.491,Review
+Wonka Gum,Secret Factory,Lot's O' Nuts,6.06,91.83,52.0,1,0.467,Review
+Fun Dip,Sugar Shack,The Other Factory,3.56,45.26,40.0,1,0.351,Review
+Kazookles,The Other Factory,Wicked Choccy's,2.97,39.97,7.69,2,0.313,Review
+Nerds,Sugar Shack,Wicked Choccy's,2.88,36.63,46.67,1,0.357,Review
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,The Other Factory,0.58,8.28,71.35,1,0.384,Safe
+Wonka Gum,Secret Factory,Sugar Shack,0.19,2.77,52.0,1,0.3,Review
